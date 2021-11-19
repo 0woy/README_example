@@ -42,6 +42,8 @@ int main(){
  }
  ```
  
+ `Scanner scanner = new Scnanner(System.in);`
+ 
  
 
  
